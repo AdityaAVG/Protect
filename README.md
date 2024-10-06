@@ -58,6 +58,6 @@ pip install openai speech_recognition
 
 
 ## Contributors 
-Aditya - @aditya10avg
-Dev Rai- @dev-rai1
+Aditya - @aditya10avg  /n
+Dev Rai- @dev-rai1 /n
 Nuhayd 
